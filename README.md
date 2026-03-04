@@ -52,7 +52,7 @@ Ensure you have **Node.js** (v18 or higher) and **npm** installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/lunia290/Lunia290-OS.git
+git clone https://github.com/augustdev290/Lunia290-OS.git
 cd Lunia290-OS
 ```
 
@@ -78,7 +78,7 @@ This project is licensed under the MIT License.
 
 ## 🎉 Credits
 
-**Built by lunia290** – thank you for using and contributing!  
+**Built by augustdev290** – thank you for using and contributing!  
 Feel free to open issues or pull requests with improvements.
 
 ---
